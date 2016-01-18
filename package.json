@@ -1,0 +1,21 @@
+{
+  "name": "vue-goals",
+  "version": "1.0.0",
+  "description": "Goals system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hola@albertvazquez.es",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^1.0.14"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.3.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
